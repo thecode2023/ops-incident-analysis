@@ -132,4 +132,4 @@ This analysis was built as part of a portfolio project to demonstrate SQL and BI
 
 **Author:** Yusuf Masood  
 **LinkedIn:** [linkedin.com/in/yusufmasood](https://linkedin.com/in/yusufmasood)  
-**Portfolio:** [github.com/yusufmasood](https://github.com/yusufmasood)
+**Portfolio:** [github.com/yusufmasood](https://github.com/thecode2023)
