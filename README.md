@@ -80,15 +80,9 @@ ops-incident-analysis/
 
 ## Power BI Dashboard
 
-**Live dashboard:** [Insert Power BI Service URL here after publishing in Week 4]
+**Status:** In progress — dashboard will be published after Week 4 of this project sprint.
 
-The dashboard connects directly to the `kpi_summary` view (Query 15) and includes:
-- KPI card row: total incidents, SLA compliance %, avg resolution time, open backlog
-- Incident volume trend line with MoM change
-- Top categories bar chart with SLA breach rate overlay
-- Day-of-week incident heatmap
-- SLA compliance gauge vs. 95% target
-- Interactive slicers: date range, severity, category
+The dashboard will connect to the `kpi_summary` view and include incident volume trends, SLA compliance gauge, geographic heatmap, and top-category breakdowns with interactive slicers.
 
 ---
 
