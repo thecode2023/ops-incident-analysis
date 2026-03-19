@@ -78,11 +78,12 @@ ops-incident-analysis/
 
 ---
 
-## Power BI Dashboard
+## Dashboard
 
-**Status:** In progress — dashboard will be published after Week 4 of this project sprint.
+**Live dashboard:** https://public.tableau.com/app/profile/yusuf.masood/viz/Chicago311OperationalIncidentKPIAnalysis/Dashboard1
 
-The dashboard will connect to the `kpi_summary` view and include incident volume trends, SLA compliance gauge, geographic heatmap, and top-category breakdowns with interactive slicers.
+Built in Tableau Public. Connects to 200,000 records from the Chicago 311 graffiti dataset and includes incident volume trends, SLA breach rate by ZIP code, and average resolution time by ZIP code.
+
 
 ---
 
