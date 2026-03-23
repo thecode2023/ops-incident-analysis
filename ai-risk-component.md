@@ -13,6 +13,14 @@ Given the volume patterns, seasonal trends, and departmental routing complexity 
 This is not a hypothetical exercise. Cities including Los Angeles, Boston, and New York have already deployed or piloted AI-assisted 311 routing. The risks modeled here are active governance challenges in municipal AI today.
 
 ---
+## AI Governance Risk Assessment
+
+Interactive dashboard applying NIST AI RMF and OWASP LLM Top 10 to a 
+hypothetical AI-triage deployment on the Chicago 311 dataset. Includes 
+real resolution time disparity analysis across 16 ZIP codes surfaced 
+via SQL query.
+
+[View Dashboard →](https://public.tableau.com/app/profile/yusuf.masood/viz/ops-incident-analysis-ai-risk/AIRiskAssesment?publish=yes)
 
 ## Hypothetical System: AI-311 Triage Engine
 
